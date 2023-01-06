@@ -5,4 +5,4 @@ In This project I make the Library management system with the help of python wri
 Display the list of books avaiable in library  <br>
 Add book   <br>
 Return book  <br>
-i create the function that show who is already use and take the take already <br>
+i create the function that show who is already use and take it already <br>
